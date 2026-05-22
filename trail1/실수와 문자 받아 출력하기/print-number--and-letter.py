@@ -1,0 +1,1 @@
+print('%c\n%.2f\n%.2f'%(input(),float(input()),float(input())))
